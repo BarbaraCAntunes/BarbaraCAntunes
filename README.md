@@ -43,6 +43,9 @@
   <img src = "https://user-images.githubusercontent.com/119433142/209236621-ee8eef25-10ed-4e6d-a523-2d897b0924e2.jpg" alt = "DevOps" title = "DevOps" height = "50px">
   <img src = "https://user-images.githubusercontent.com/119433142/209236628-ba14b5d5-ecc3-4d1e-bd35-9981e127d6fb.png" alt = "GraphQL" title = "GraphQL" height = "50px">
   <img src = "https://user-images.githubusercontent.com/119433142/209236690-e642806d-0076-4201-b622-bfc2379d1bab.png" alt = "Docker" title = "Docker" height = "50px">
+  <img src = "https://user-images.githubusercontent.com/119433142/209240478-338f8bdb-7874-48c4-9be5-4676418aefd2.png" alt = "SoftSkills" title = "Soft Skills" height = "50px">
+  
+
   </div>
   
   ### Contact me 📩 
