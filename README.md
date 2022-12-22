@@ -2,11 +2,11 @@
 
 ### Hi, there! I'm Barbara Antunes! 👋
 
-- 🎓 I have a law degree by the Federal Unversity of Santa Maria and have worked as a lawyer for the past eight years.
+- 🎓 I have a law degree by the Federal University of Santa Maria and have worked as a lawyer for the past eight years.
 
 - 👩‍💻 In 2022, I've decided to chase my dreams and changed my career from law to tecnology. Currently, I'm a full stack developer in formation by the DEVinHouse program, provided by SESI SENAI/SC.
 
-- 👩‍🏫 I've an English diploma by CNA Language School. I'm proficient in English (TOEFL ITP) and I've worked as an English teacher in CNA for almost two years. 
+- 👩‍🏫 I've an English diploma by CNA Language School. I'm proficient at English (TOEFL ITP) and I've worked as an English teacher at CNA Language School for almost two years. 
 
 ### Front-End
 <div style="display: inline_block">
