@@ -28,8 +28,9 @@
 
  ### Data base  
  <div style="display: inline_block">    
-  <img src = "https://user-images.githubusercontent.com/119433142/209234877-a047c320-49ee-4245-9569-0250780338cc.png" alt = "SQL" title = "SQL" height = "50px">
+  <img src = "https://user-images.githubusercontent.com/119433142/209241081-4974a3db-0ebd-42ba-88a0-88ab6e9552cf.png" alt = "SQL Server" title = "SQL Server" height = "50px">
   </div>
+
   
   ### Work tools
   <div style="display: inline_block">        
@@ -44,8 +45,6 @@
   <img src = "https://user-images.githubusercontent.com/119433142/209236628-ba14b5d5-ecc3-4d1e-bd35-9981e127d6fb.png" alt = "GraphQL" title = "GraphQL" height = "50px">
   <img src = "https://user-images.githubusercontent.com/119433142/209236690-e642806d-0076-4201-b622-bfc2379d1bab.png" alt = "Docker" title = "Docker" height = "50px">
   <img src = "https://user-images.githubusercontent.com/119433142/209240478-338f8bdb-7874-48c4-9be5-4676418aefd2.png" alt = "SoftSkills" title = "Soft Skills" height = "50px">
-  
-
   </div>
   
   ### Contact me 📩 
